@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T14:48:00Z",
+  "updated": "2026-03-15T15:18:14Z",
   "data": {
     "sp": {
       "price": 6632.19,
@@ -17,8 +17,8 @@
       "src": "GHA"
     },
     "inr": {
-      "price": 92.45,
-      "chgPct": 0.12,
+      "price": 92.49,
+      "chgPct": 0.17,
       "src": "GHA"
     },
     "crude": {
