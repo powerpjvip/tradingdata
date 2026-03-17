@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T01:04:42Z",
+  "updated": "2026-03-17T03:42:14Z",
   "data": {
     "sp": {
       "price": 6699.38,
@@ -17,33 +17,33 @@
       "src": "GHA"
     },
     "inr": {
-      "price": 92.27,
-      "chgPct": 0.06,
+      "price": 92.4,
+      "chgPct": 0.21,
       "src": "GHA"
     },
     "crude": {
-      "price": 96.09,
-      "chgPct": -3.16,
+      "price": 96.16,
+      "chgPct": -3.09,
       "src": "GHA"
     },
     "gold": {
-      "price": 5004.8,
-      "chgPct": -0.35,
+      "price": 5035.1,
+      "chgPct": 0.25,
       "src": "GHA"
     },
     "silver": {
-      "price": 80.55,
-      "chgPct": 0.34,
+      "price": 81.62,
+      "chgPct": 1.67,
       "src": "GHA"
     },
     "n50": {
-      "price": 23408.8,
-      "chgPct": 1.03,
+      "price": 23493.2,
+      "chgPct": 1.39,
       "src": "GHA"
     },
     "bn": {
-      "price": 54413.4,
-      "chgPct": 1.19,
+      "price": 54649.1,
+      "chgPct": 1.63,
       "src": "GHA"
     },
     "sx": {
