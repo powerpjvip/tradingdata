@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T23:18:31Z",
+  "updated": "2026-03-20T23:48:59Z",
   "data": {
     "sp": {
       "price": 6506.48,
@@ -57,8 +57,8 @@
       "src": "GHA"
     },
     "vix": {
-      "price": 22.8,
-      "chgPct": 0.26,
+      "price": 22.81,
+      "chgPct": 0.32,
       "src": "GHA"
     },
     "t_RELIANCE": {
