@@ -1,99 +1,114 @@
 {
-  "updated": "2026-04-07T08:19:05Z",
+  "updated": "2026-04-07T09:40:45Z",
   "data": {
+    "sp": {
+      "price": 6611.83,
+      "chgPct": 0.44,
+      "src": "GHA"
+    },
+    "ndq": {
+      "price": 21996.34,
+      "chgPct": 0.54,
+      "src": "GHA"
+    },
     "dji": {
       "price": 46669.88,
       "chgPct": 0.36,
       "src": "GHA"
     },
     "inr": {
-      "price": 92.92,
-      "chgPct": -0.13,
+      "price": 92.89,
+      "chgPct": -0.16,
+      "src": "GHA"
+    },
+    "crude": {
+      "price": 111.83,
+      "chgPct": -3.26,
       "src": "GHA"
     },
     "gold": {
-      "price": 4677.0,
-      "chgPct": 0.04,
+      "price": 4709.8,
+      "chgPct": 0.75,
       "src": "GHA"
     },
     "silver": {
-      "price": 72.4,
-      "chgPct": -0.56,
+      "price": 73.1,
+      "chgPct": 0.41,
       "src": "GHA"
     },
     "n50": {
-      "price": 23044.2,
-      "chgPct": 0.37,
+      "price": 23115.75,
+      "chgPct": 0.68,
       "src": "GHA"
     },
     "bn": {
-      "price": 52519.0,
-      "chgPct": -0.1,
+      "price": 52708.85,
+      "chgPct": 0.26,
       "src": "GHA"
     },
     "sx": {
-      "price": 74264.65,
-      "chgPct": 0.21,
+      "price": 74467.42,
+      "chgPct": 0.49,
       "src": "GHA"
     },
     "fn": {
-      "price": 24599.5,
-      "chgPct": 0.14,
+      "price": 24685.0,
+      "chgPct": 0.48,
       "src": "GHA"
     },
     "vix": {
-      "price": 25.11,
-      "chgPct": -1.74,
+      "price": 24.59,
+      "chgPct": -3.79,
       "src": "GHA"
     },
     "t_RELIANCE": {
-      "price": 1300.1,
-      "chgPct": -0.45,
+      "price": 1303.9,
+      "chgPct": -0.16,
       "src": "GHA"
     },
     "t_HDFCBANK": {
-      "price": 771.0,
-      "chgPct": 0.06,
+      "price": 772.15,
+      "chgPct": 0.21,
       "src": "GHA"
     },
     "t_ICICIBANK": {
-      "price": 1238.5,
-      "chgPct": 0.58,
+      "price": 1244.9,
+      "chgPct": 1.1,
       "src": "GHA"
     },
     "t_INFY": {
-      "price": 1334.4,
-      "chgPct": 2.16,
+      "price": 1339.8,
+      "chgPct": 2.57,
       "src": "GHA"
     },
     "t_TCS": {
-      "price": 2535.9,
-      "chgPct": 2.58,
+      "price": 2540.5,
+      "chgPct": 2.77,
       "src": "GHA"
     },
     "t_AIRTEL": {
-      "price": 1816.2,
-      "chgPct": 1.31,
+      "price": 1829.4,
+      "chgPct": 2.04,
       "src": "GHA"
     },
     "t_ITC": {
-      "price": 297.8,
-      "chgPct": 1.05,
+      "price": 298.4,
+      "chgPct": 1.26,
       "src": "GHA"
     },
     "t_SBI": {
-      "price": 1025.0,
-      "chgPct": -0.81,
+      "price": 1032.4,
+      "chgPct": -0.1,
       "src": "GHA"
     },
     "t_KOTAK": {
-      "price": 361.3,
-      "chgPct": 0.46,
+      "price": 362.85,
+      "chgPct": 0.89,
       "src": "GHA"
     },
     "t_LT": {
-      "price": 3727.4,
-      "chgPct": 0.04,
+      "price": 3722.7,
+      "chgPct": -0.09,
       "src": "GHA"
     },
     "u_AAPL": {
@@ -147,9 +162,5 @@
       "src": "GHA"
     }
   },
-  "errors": [
-    "sp: 'Response' object is not subscriptable",
-    "ndq: 'Response' object is not subscriptable",
-    "crude: 'Response' object is not subscriptable"
-  ]
+  "errors": []
 }
