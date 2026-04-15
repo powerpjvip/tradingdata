@@ -1,79 +1,163 @@
 {
-  "updated": "2026-04-15T12:56:57Z",
+  "updated": "2026-04-15T14:27:27Z",
   "data": {
-    "u_AAPL": {
-      "price": 258.83,
-      "chgPct": 0.09,
+    "ndq": {
+      "price": 23824.59,
+      "chgPct": 0.78,
       "src": "GHA"
     },
-    "u_MSFT": {
-      "price": 393.11,
-      "chgPct": -0.33,
+    "dji": {
+      "price": 48410.28,
+      "chgPct": -0.26,
       "src": "GHA"
     },
-    "u_NVDA": {
-      "price": 196.51,
-      "chgPct": 0.16,
+    "inr": {
+      "price": 93.37,
+      "chgPct": 0.26,
       "src": "GHA"
     },
-    "u_AMZN": {
-      "price": 249.02,
-      "chgPct": -0.06,
-      "src": "GHA"
-    },
-    "u_GOOGL": {
-      "price": 332.91,
+    "crude": {
+      "price": 90.84,
       "chgPct": -0.11,
       "src": "GHA"
     },
+    "gold": {
+      "price": 4853.3,
+      "chgPct": 0.08,
+      "src": "GHA"
+    },
+    "silver": {
+      "price": 80.57,
+      "chgPct": 0.8,
+      "src": "GHA"
+    },
+    "n50": {
+      "price": 24231.3,
+      "chgPct": 1.73,
+      "src": "GHA"
+    },
+    "bn": {
+      "price": 56301.95,
+      "chgPct": 1.31,
+      "src": "GHA"
+    },
+    "sx": {
+      "price": 78111.24,
+      "chgPct": 1.64,
+      "src": "GHA"
+    },
+    "fn": {
+      "price": 26445.0,
+      "chgPct": 1.6,
+      "src": "GHA"
+    },
+    "vix": {
+      "price": 18.67,
+      "chgPct": -8.56,
+      "src": "GHA"
+    },
+    "t_RELIANCE": {
+      "price": 1344.1,
+      "chgPct": 2.29,
+      "src": "GHA"
+    },
+    "t_HDFCBANK": {
+      "price": 809.9,
+      "chgPct": 1.91,
+      "src": "GHA"
+    },
+    "t_ICICIBANK": {
+      "price": 1348.1,
+      "chgPct": -0.12,
+      "src": "GHA"
+    },
+    "t_INFY": {
+      "price": 1305.3,
+      "chgPct": 2.23,
+      "src": "GHA"
+    },
+    "t_TCS": {
+      "price": 2554.9,
+      "chgPct": 3.42,
+      "src": "GHA"
+    },
+    "t_AIRTEL": {
+      "price": 1855.7,
+      "chgPct": -0.81,
+      "src": "GHA"
+    },
+    "t_ITC": {
+      "price": 302.05,
+      "chgPct": 1.09,
+      "src": "GHA"
+    },
+    "t_SBI": {
+      "price": 1071.5,
+      "chgPct": 0.91,
+      "src": "GHA"
+    },
+    "t_KOTAK": {
+      "price": 382.4,
+      "chgPct": 2.82,
+      "src": "GHA"
+    },
+    "t_LT": {
+      "price": 4076.3,
+      "chgPct": 3.09,
+      "src": "GHA"
+    },
+    "u_AAPL": {
+      "price": 260.57,
+      "chgPct": 0.76,
+      "src": "GHA"
+    },
+    "u_MSFT": {
+      "price": 406.61,
+      "chgPct": 3.1,
+      "src": "GHA"
+    },
+    "u_NVDA": {
+      "price": 199.55,
+      "chgPct": 1.72,
+      "src": "GHA"
+    },
+    "u_AMZN": {
+      "price": 248.21,
+      "chgPct": -0.38,
+      "src": "GHA"
+    },
+    "u_GOOGL": {
+      "price": 334.57,
+      "chgPct": 0.38,
+      "src": "GHA"
+    },
     "u_META": {
-      "price": 662.49,
-      "chgPct": -0.52,
+      "price": 675.36,
+      "chgPct": 1.42,
       "src": "GHA"
     },
     "u_TSLA": {
-      "price": 364.2,
-      "chgPct": -0.49,
+      "price": 376.34,
+      "chgPct": 2.83,
       "src": "GHA"
     },
     "u_BRK": {
-      "price": 477.54,
-      "chgPct": -0.08,
+      "price": 475.34,
+      "chgPct": -0.54,
       "src": "GHA"
     },
     "u_JPM": {
-      "price": 311.12,
-      "chgPct": -0.05,
+      "price": 308.57,
+      "chgPct": -0.88,
       "src": "GHA"
     },
     "u_UNH": {
-      "price": 314.19,
-      "chgPct": -0.05,
+      "price": 311.52,
+      "chgPct": -0.9,
       "src": "GHA"
     }
   },
   "errors": [
-    "sp: Failed to perform, curl: (7) Failed to connect to query1.finance.yahoo.com port 443 after 232 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
-    "ndq: Failed to perform, curl: (7) Failed to connect to query1.finance.yahoo.com port 443 after 229 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
-    "dji: 'PriceHistory' object has no attribute '_dividends'",
-    "inr: 'PriceHistory' object has no attribute '_dividends'",
-    "crude: 'PriceHistory' object has no attribute '_dividends'",
-    "gold: 'PriceHistory' object has no attribute '_dividends'",
-    "silver: 'PriceHistory' object has no attribute '_dividends'",
-    "n50: 'PriceHistory' object has no attribute '_dividends'",
-    "bn: 'PriceHistory' object has no attribute '_dividends'",
-    "sx: 'PriceHistory' object has no attribute '_dividends'",
-    "fn: 'PriceHistory' object has no attribute '_dividends'",
-    "vix: 'PriceHistory' object has no attribute '_dividends'",
-    "t_RELIANCE: 'PriceHistory' object has no attribute '_dividends'",
-    "t_HDFCBANK: 'PriceHistory' object has no attribute '_dividends'",
-    "t_ICICIBANK: 'PriceHistory' object has no attribute '_dividends'",
-    "t_INFY: 'PriceHistory' object has no attribute '_dividends'",
-    "t_TCS: 'PriceHistory' object has no attribute '_dividends'",
-    "t_AIRTEL: 'PriceHistory' object has no attribute '_dividends'",
-    "t_ITC: 'PriceHistory' object has no attribute '_dividends'",
-    "t_SBI: 'PriceHistory' object has no attribute '_dividends'",
-    "t_KOTAK: 'PriceHistory' object has no attribute '_dividends'",
-    "t_LT: 'PriceHistory' object has no attribute '_dividends'"
+    "sp: 'PriceHistory' object has no attribute '_dividends'"
   ]
 }
