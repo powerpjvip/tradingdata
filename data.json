@@ -1,34 +1,39 @@
 {
-  "updated": "2026-04-15T14:27:27Z",
+  "updated": "2026-04-15T15:44:27Z",
   "data": {
+    "sp": {
+      "price": 6999.01,
+      "chgPct": 0.46,
+      "src": "GHA"
+    },
     "ndq": {
-      "price": 23824.59,
-      "chgPct": 0.78,
+      "price": 23889.65,
+      "chgPct": 1.06,
       "src": "GHA"
     },
     "dji": {
-      "price": 48410.28,
-      "chgPct": -0.26,
+      "price": 48341.03,
+      "chgPct": -0.4,
       "src": "GHA"
     },
     "inr": {
-      "price": 93.37,
-      "chgPct": 0.26,
+      "price": 93.21,
+      "chgPct": 0.09,
       "src": "GHA"
     },
     "crude": {
-      "price": 90.84,
-      "chgPct": -0.11,
+      "price": 92.8,
+      "chgPct": 2.05,
       "src": "GHA"
     },
     "gold": {
-      "price": 4853.3,
-      "chgPct": 0.08,
+      "price": 4818.7,
+      "chgPct": -0.64,
       "src": "GHA"
     },
     "silver": {
-      "price": 80.57,
-      "chgPct": 0.8,
+      "price": 79.17,
+      "chgPct": -0.94,
       "src": "GHA"
     },
     "n50": {
@@ -107,57 +112,55 @@
       "src": "GHA"
     },
     "u_AAPL": {
-      "price": 260.57,
-      "chgPct": 0.76,
+      "price": 263.67,
+      "chgPct": 1.96,
       "src": "GHA"
     },
     "u_MSFT": {
-      "price": 406.61,
-      "chgPct": 3.1,
+      "price": 406.96,
+      "chgPct": 3.18,
       "src": "GHA"
     },
     "u_NVDA": {
-      "price": 199.55,
-      "chgPct": 1.72,
+      "price": 199.91,
+      "chgPct": 1.9,
       "src": "GHA"
     },
     "u_AMZN": {
-      "price": 248.21,
-      "chgPct": -0.38,
+      "price": 247.93,
+      "chgPct": -0.49,
       "src": "GHA"
     },
     "u_GOOGL": {
-      "price": 334.57,
-      "chgPct": 0.38,
+      "price": 333.27,
+      "chgPct": -0.01,
       "src": "GHA"
     },
     "u_META": {
-      "price": 675.36,
-      "chgPct": 1.42,
+      "price": 674.24,
+      "chgPct": 1.25,
       "src": "GHA"
     },
     "u_TSLA": {
-      "price": 376.34,
-      "chgPct": 2.83,
+      "price": 393.55,
+      "chgPct": 7.53,
       "src": "GHA"
     },
     "u_BRK": {
-      "price": 475.34,
-      "chgPct": -0.54,
+      "price": 474.76,
+      "chgPct": -0.66,
       "src": "GHA"
     },
     "u_JPM": {
-      "price": 308.57,
-      "chgPct": -0.88,
+      "price": 305.78,
+      "chgPct": -1.77,
       "src": "GHA"
     },
     "u_UNH": {
-      "price": 311.52,
-      "chgPct": -0.9,
+      "price": 312.75,
+      "chgPct": -0.51,
       "src": "GHA"
     }
   },
-  "errors": [
-    "sp: 'PriceHistory' object has no attribute '_dividends'"
-  ]
+  "errors": []
 }
