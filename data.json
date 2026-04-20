@@ -1,11 +1,6 @@
 {
-  "updated": "2026-04-20T21:30:37Z",
+  "updated": "2026-04-20T22:27:04Z",
   "data": {
-    "sp": {
-      "price": 7109.14,
-      "chgPct": -0.24,
-      "src": "GHA"
-    },
     "ndq": {
       "price": 24404.39,
       "chgPct": -0.26,
@@ -22,18 +17,18 @@
       "src": "GHA"
     },
     "crude": {
-      "price": 85.89,
-      "chgPct": 4.0,
+      "price": 86.09,
+      "chgPct": 4.24,
       "src": "GHA"
     },
     "gold": {
-      "price": 4841.0,
-      "chgPct": 0.58,
+      "price": 4853.0,
+      "chgPct": 0.82,
       "src": "GHA"
     },
     "silver": {
-      "price": 79.87,
-      "chgPct": -0.55,
+      "price": 80.37,
+      "chgPct": 0.07,
       "src": "GHA"
     },
     "n50": {
@@ -162,5 +157,7 @@
       "src": "GHA"
     }
   },
-  "errors": []
+  "errors": [
+    "sp: Too Many Requests. Rate limited. Try after a while."
+  ]
 }
