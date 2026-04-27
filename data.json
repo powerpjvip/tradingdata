@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T21:15:27Z",
+  "updated": "2026-04-27T22:07:48Z",
   "data": {
     "sp": {
       "price": 7173.91,
@@ -148,12 +148,12 @@
     },
     "u_BRK": {
       "price": 472.81,
-      "chgPct": 0.48,
+      "chgPct": 0.59,
       "src": "GHA"
     },
     "u_JPM": {
       "price": 311.63,
-      "chgPct": 1.01,
+      "chgPct": 1.05,
       "src": "GHA"
     },
     "u_UNH": {
