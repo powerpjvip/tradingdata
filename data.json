@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T20:38:38Z",
+  "updated": "2026-05-08T21:37:58Z",
   "data": {
     "sp": {
       "price": 7398.93,
@@ -17,23 +17,23 @@
       "src": "GHA"
     },
     "inr": {
-      "price": 94.41,
-      "chgPct": 0.18,
+      "price": 94.47,
+      "chgPct": 0.24,
       "src": "GHA"
     },
     "crude": {
-      "price": 94.85,
-      "chgPct": -0.88,
+      "price": 94.68,
+      "chgPct": -1.06,
       "src": "GHA"
     },
     "gold": {
-      "price": 4725.7,
-      "chgPct": -0.07,
+      "price": 4723.7,
+      "chgPct": -0.11,
       "src": "GHA"
     },
     "silver": {
-      "price": 80.86,
-      "chgPct": 0.55,
+      "price": 80.83,
+      "chgPct": 0.52,
       "src": "GHA"
     },
     "n50": {
