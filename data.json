@@ -1,114 +1,89 @@
 {
-  "updated": "2026-07-08T04:28:41Z",
+  "updated": "2026-07-08T07:02:45Z",
   "data": {
-    "sp": {
-      "price": 7503.85,
-      "chgPct": -0.45,
-      "src": "GHA"
-    },
-    "ndq": {
-      "price": 25818.69,
-      "chgPct": -1.16,
-      "src": "GHA"
-    },
-    "dji": {
-      "price": 52925.15,
-      "chgPct": -0.25,
-      "src": "GHA"
-    },
-    "inr": {
-      "price": 95.1,
-      "chgPct": 0.15,
-      "src": "GHA"
-    },
-    "crude": {
-      "price": 72.3,
-      "chgPct": 0.07,
-      "src": "GHA"
-    },
     "gold": {
-      "price": 4133.9,
-      "chgPct": -0.14,
+      "price": 4136.1,
+      "chgPct": -0.06,
       "src": "GHA"
     },
     "silver": {
-      "price": 60.7,
-      "chgPct": -0.59,
+      "price": 61.19,
+      "chgPct": 0.35,
       "src": "GHA"
     },
     "n50": {
-      "price": 24247.65,
-      "chgPct": -0.44,
+      "price": 24199.45,
+      "chgPct": -0.64,
       "src": "GHA"
     },
     "bn": {
-      "price": 57851.4,
-      "chgPct": -0.49,
+      "price": 57754.9,
+      "chgPct": -0.65,
       "src": "GHA"
     },
     "sx": {
-      "price": 77612.71,
-      "chgPct": -0.73,
+      "price": 77572.19,
+      "chgPct": -0.78,
       "src": "GHA"
     },
     "fn": {
-      "price": 26845.05,
-      "chgPct": -0.35,
+      "price": 26745.6,
+      "chgPct": -0.72,
       "src": "GHA"
     },
     "vix": {
-      "price": 12.35,
-      "chgPct": 5.08,
+      "price": 12.33,
+      "chgPct": 4.89,
       "src": "GHA"
     },
     "t_RELIANCE": {
-      "price": 1286.2,
-      "chgPct": -1.43,
+      "price": 1290.0,
+      "chgPct": -1.14,
       "src": "GHA"
     },
     "t_HDFCBANK": {
-      "price": 831.5,
-      "chgPct": 0.48,
+      "price": 826.4,
+      "chgPct": -0.13,
       "src": "GHA"
     },
     "t_ICICIBANK": {
-      "price": 1413.7,
-      "chgPct": 0.12,
+      "price": 1397.6,
+      "chgPct": -1.02,
       "src": "GHA"
     },
     "t_INFY": {
-      "price": 1072.3,
-      "chgPct": 0.07,
+      "price": 1073.9,
+      "chgPct": 0.22,
       "src": "GHA"
     },
     "t_TCS": {
-      "price": 2086.4,
-      "chgPct": -0.45,
+      "price": 2082.0,
+      "chgPct": -0.66,
       "src": "GHA"
     },
     "t_AIRTEL": {
-      "price": 1916.3,
-      "chgPct": -0.49,
+      "price": 1898.4,
+      "chgPct": -1.42,
       "src": "GHA"
     },
     "t_ITC": {
-      "price": 282.45,
-      "chgPct": -1.98,
+      "price": 283.8,
+      "chgPct": -1.51,
       "src": "GHA"
     },
     "t_SBI": {
-      "price": 1025.5,
-      "chgPct": -1.03,
+      "price": 1035.5,
+      "chgPct": -0.07,
       "src": "GHA"
     },
     "t_KOTAK": {
-      "price": 378.15,
-      "chgPct": -1.05,
+      "price": 377.25,
+      "chgPct": -1.28,
       "src": "GHA"
     },
     "t_LT": {
-      "price": 3968.1,
-      "chgPct": -0.47,
+      "price": 3972.2,
+      "chgPct": -0.37,
       "src": "GHA"
     },
     "u_AAPL": {
@@ -162,5 +137,11 @@
       "src": "GHA"
     }
   },
-  "errors": []
+  "errors": [
+    "sp: Failed to perform, curl: (60) SSL: no alternative certificate subject name matches target hostname 'fc.yahoo.com'. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+    "ndq: Failed to perform, curl: (60) SSL: no alternative certificate subject name matches target hostname 'fc.yahoo.com'. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+    "dji: 'exchangeTimezoneName'",
+    "inr: 'exchangeTimezoneName'",
+    "crude: 'exchangeTimezoneName'"
+  ]
 }
