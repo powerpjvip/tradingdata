@@ -1,29 +1,39 @@
 {
-  "updated": "2026-07-08T11:27:38Z",
+  "updated": "2026-07-08T12:58:33Z",
   "data": {
+    "sp": {
+      "price": 7503.85,
+      "chgPct": -0.45,
+      "src": "GHA"
+    },
+    "ndq": {
+      "price": 25818.69,
+      "chgPct": -1.16,
+      "src": "GHA"
+    },
     "dji": {
       "price": 52925.15,
       "chgPct": -0.25,
       "src": "GHA"
     },
     "inr": {
-      "price": 95.56,
-      "chgPct": 0.63,
+      "price": 95.54,
+      "chgPct": 0.62,
       "src": "GHA"
     },
     "crude": {
-      "price": 74.29,
-      "chgPct": 2.81,
+      "price": 73.46,
+      "chgPct": 1.66,
       "src": "GHA"
     },
     "gold": {
-      "price": 4063.9,
-      "chgPct": -1.69,
+      "price": 4091.6,
+      "chgPct": -1.02,
       "src": "GHA"
     },
     "silver": {
-      "price": 58.91,
-      "chgPct": -3.06,
+      "price": 59.03,
+      "chgPct": -2.87,
       "src": "GHA"
     },
     "n50": {
@@ -152,8 +162,5 @@
       "src": "GHA"
     }
   },
-  "errors": [
-    "sp: Failed to perform, curl: (60) SSL: no alternative certificate subject name matches target hostname 'fc.yahoo.com'. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
-    "ndq: Failed to perform, curl: (60) SSL: no alternative certificate subject name matches target hostname 'fc.yahoo.com'. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
-  ]
+  "errors": []
 }
