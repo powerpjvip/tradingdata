@@ -1,11 +1,6 @@
 {
-  "updated": "2026-08-16T04:25:04Z",
+  "updated": "2026-08-16T04:56:11Z",
   "data": {
-    "sp": {
-      "price": 7785.76,
-      "chgPct": -0.17,
-      "src": "GHA"
-    },
     "ndq": {
       "price": 26729.16,
       "chgPct": -0.28,
@@ -162,5 +157,7 @@
       "src": "GHA"
     }
   },
-  "errors": []
+  "errors": [
+    "sp: Too Many Requests. Rate limited. Try after a while."
+  ]
 }
